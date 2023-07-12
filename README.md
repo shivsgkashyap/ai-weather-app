@@ -2,7 +2,7 @@
 
 _NOTE_ - The deployed app may not work as expected as Vercel limits the time API requests take on the hobby plan. If so, the app will need to be ran on localhost to get full functionality.
 
-## [LIVE DEMO](ai-weather-h6oa261ko-ssgkash-gmailcom.vercel.app) :point_left:
+## [LIVE DEMO](https://ai-weather-app-three.vercel.app) :point_left:
 
 <img width="1000" alt="Screenshot 2023-07-12 at 22 11 20" src="https://github.com/shivsgkashyap/ai-weather-app/assets/89941894/edb81474-15d0-45af-8d54-6031abaaf7df">
 
