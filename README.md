@@ -1,5 +1,7 @@
 # AI Weather App with ChatGPT
 
+_NOTE_ - The deployed app may not work as expected as Vercel limits the time API requests take on the hobby plan. If so, the app will need to be ran on localhost to get full functionality.
+
 ## [LIVE DEMO](ai-weather-h6oa261ko-ssgkash-gmailcom.vercel.app) :point_left:
 
 ## Project Summary

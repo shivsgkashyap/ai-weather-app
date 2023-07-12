@@ -11,7 +11,7 @@ const Loading = () => {
         Loading City Weather Information...
       </h1>
       <h2 className="text-xl font-bold text-center mb-10 animate-pulse">
-        Please Wait, we are crunching the numbers & generating an AI summary of
+        Please wait, we are crunching the numbers & generating an AI summary of
         the weather!
       </h2>
     </div>
