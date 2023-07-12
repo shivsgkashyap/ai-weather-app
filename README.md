@@ -4,9 +4,12 @@ _NOTE_ - The deployed app may not work as expected as Vercel limits the time API
 
 ## [LIVE DEMO](ai-weather-h6oa261ko-ssgkash-gmailcom.vercel.app) :point_left:
 
+<img width="600" alt="Screenshot 2023-07-12 at 22 11 20" src="https://github.com/shivsgkashyap/ai-weather-app/assets/89941894/edb81474-15d0-45af-8d54-6031abaaf7df">
+
 ## Project Summary
 
-The ultimate weather app. Fully responsive Weather App with support for all countries and cities. Includes a weather summary by ChatGPT and detailed weather information displayed in cards and charts by Tremor 2.0 + much more. All packaged in an aesthetically pleasing design. Built with Next.js 13, React.js, TypeScript, Tailwind, Tremor 2.0, StepZen & GraphQL.
+
+The ULTIMATE weather app. Fully responsive Weather App with support for all countries and cities. Includes a weather summary by ChatGPT and detailed weather information displayed in cards and charts by Tremor 2.0 + much more. All packaged in an aesthetically pleasing design. Built with Next.js 13, React.js, TypeScript, Tailwind, Tremor 2.0, StepZen & GraphQL.
 
 ## Key features
 
