@@ -1,6 +1,6 @@
 # AI Weather App with ChatGPT
 
-## [LIVE DEMO](https://news-app-wine-two.vercel.app) :point_left:
+## [LIVE DEMO](ai-weather-h6oa261ko-ssgkash-gmailcom.vercel.app) :point_left:
 
 ## Project Summary
 
