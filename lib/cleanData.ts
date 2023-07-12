@@ -43,3 +43,5 @@ const cleanData = (data: Root, city: string) => {
     city,
   };
 };
+
+export default cleanData;
