@@ -2,7 +2,7 @@
 
 _NOTE_ - The deployed app does not work as expected as Vercel limits the time API requests take on the hobby plan. So, I have provided a video of the app below running on localhost to display full functionality.
 
-https://github.com/shivsgkashyap/ai-weather-app/assets/89941894/a66bd296-7b10-4cc8-893a-c7e54835ae86
+https://github.com/shivsgkashyap/ai-weather-app/assets/89941894/ac4f84ab-30cd-4a5a-8594-df4183dfed33
 
 <img width="1000" alt="Screenshot 2023-07-12 at 22 11 20" src="https://github.com/shivsgkashyap/ai-weather-app/assets/89941894/edb81474-15d0-45af-8d54-6031abaaf7df">
 
